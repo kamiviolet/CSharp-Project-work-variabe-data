@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project sourced from Microsoft Learn, equivalent to Add logic to C# console applications (Get started with C#, Part 4)
+This project sourced from Microsoft Learn, equivalent to Work with variable data in C# console applications (Get started with C#, Part 4)
 
 [Navigate to Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/get-started-c-sharp-part-4/)
 
